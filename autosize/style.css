@@ -1,0 +1,53 @@
+body{
+    background-color: #DBE4C6;
+  }
+  
+  .container{
+    border-radius: 10px;
+    width: 40%;
+    box-shadow: 0 0 15px #7B7B7B;
+    padding: 40px;
+    background-color: white;
+    margin: 50px auto;
+  }
+  
+  .btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .name{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+  }
+  
+  .name input{
+    width: 70%;
+    height: 40px;
+    border: 1px solid #94AF9F;
+  }
+  
+  .content textarea{
+    width: 70%;
+    border: 1px solid #94AF9F;
+  }
+  
+  .btn button{
+    width: 70%;
+    height: 40px;
+    font-weight: bold;
+    font-size: 17px;
+    border: none;
+    background-color: #94AF9F;
+    color: white;
+    margin-top: 20px;
+  }
